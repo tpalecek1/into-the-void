@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/into-the-void/static/css/main.8efad26d.chunk.css",
+    "main.js": "/into-the-void/static/js/main.9bfb3af6.chunk.js",
+    "main.js.map": "/into-the-void/static/js/main.9bfb3af6.chunk.js.map",
+    "runtime-main.js": "/into-the-void/static/js/runtime-main.f2a1980f.js",
+    "runtime-main.js.map": "/into-the-void/static/js/runtime-main.f2a1980f.js.map",
+    "static/css/2.383c0125.chunk.css": "/into-the-void/static/css/2.383c0125.chunk.css",
+    "static/js/2.c6d66fcf.chunk.js": "/into-the-void/static/js/2.c6d66fcf.chunk.js",
+    "static/js/2.c6d66fcf.chunk.js.map": "/into-the-void/static/js/2.c6d66fcf.chunk.js.map",
+    "static/js/3.36d81b83.chunk.js": "/into-the-void/static/js/3.36d81b83.chunk.js",
+    "static/js/3.36d81b83.chunk.js.map": "/into-the-void/static/js/3.36d81b83.chunk.js.map",
+    "index.html": "/into-the-void/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/into-the-void/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.8efad26d.chunk.css.map": "/into-the-void/static/css/main.8efad26d.chunk.css.map",
+    "static/js/2.c6d66fcf.chunk.js.LICENSE.txt": "/into-the-void/static/js/2.c6d66fcf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/into-the-void/static/media/blackhole.b4566015.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a1980f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.c6d66fcf.chunk.js",
+    "static/css/main.8efad26d.chunk.css",
+    "static/js/main.9bfb3af6.chunk.js"
+  ]
+}
